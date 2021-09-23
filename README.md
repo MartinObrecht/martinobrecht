@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">I'm a Intern Full-Stack Dev at Avanade 🧡</h3>
+<h2 align="left">Hi 👋, I'm Martin</h2>
+<h3 align="left">I'm a Intern Full-Stack Dev at Avanade 🧡</h3>
 
 - 📫 How to reach me **martin.obrecht@yahoo.com.br**
 

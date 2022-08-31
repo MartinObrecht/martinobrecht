@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Avanade](www.avanade.com)
 
-- 🌱 I’m currently learning **Dotnet core, EF core, Sql, Unit tests, Docker and Cloud Computing**
+- 🌱 I’m currently learning **.Net core, EF core, Sql, Unit tests, Docker and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinObrecht](https://github.com/MartinObrecht)
 
